@@ -8,4 +8,3 @@ def inches_to_feet():
   how_many_inches = int (input ("how_many_inches"))
   print (int(how_many_inches / 12))
 
-()
